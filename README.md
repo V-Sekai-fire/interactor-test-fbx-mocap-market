@@ -12,4 +12,4 @@ There is nothing to build; the files are read as they are.
 
 ## Licence
 
-Each clip's licence is in its JSON record, and the author named there must be credited. The repository adds none of its own.
+CC BY-SA 4.0. See [LICENSE](LICENSE). Each clip's licence is in its JSON record, and the author named there must be credited.
